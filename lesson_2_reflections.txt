@@ -35,5 +35,8 @@ the diagram the way we do?
     A new commit that merges the changes from both branches.
 
 
-What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
+What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+
+   Git can show where conflicts occur automatically, but can't fix them
+   reliably. 
