@@ -10,3 +10,12 @@ automatically stay up-to-date with your remote repository?
     you're not ready for.
 
 
+Describe the differences between forks, clones, and branches. When would you use
+one instead of another?
+
+    A clone is a copy of another repository, whether on a file system, or
+    another computer (e.g. GitHub). A fork is like a clone, but from one GitHub
+    repository to another. A branch is a new line of development within a
+    repository that can be pushed to other repositories.
+
+
