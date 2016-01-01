@@ -24,3 +24,11 @@ stored locally?
 
     You can refer to the remote changes whilst offline, etc.
 
+
+How would you collaborate without using Git or GitHub? What would be easier, and
+what would be harder?
+
+    Sending changes via e-mail, etc or with renamed files, etc. Easier learning
+    curve, but much harder to keep track of changes.
+
+
