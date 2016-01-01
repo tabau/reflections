@@ -32,3 +32,11 @@ what would be harder?
     curve, but much harder to keep track of changes.
 
 
+When would you want to make changes in a separate branch rather than directly in
+master? What benefits does each approach have?
+
+    When working on different features, or collaborating to that each person
+    doesn't cause issues on the master branch.
+
+
+
